@@ -12,9 +12,8 @@ This is an AI assistant that interacts with users using the DeepSeek LLM API.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-assistant-deepseek.git
+   git clone https://github.com/Ankith51/ai-assistant-deepseek.git
    cd ai-assistant-deepseek
-
 
    pip install -r requirements.txt
 
